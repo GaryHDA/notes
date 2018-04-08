@@ -1,5 +1,6 @@
 # notes
 ### A place to consolidate, go over basics and generally get better at what I do
+#### This will get updated on an adhoc basis
 
 As modules or projects progress there is always that moment of "Is that the best way to do that" or "I wonder if this would work". Usually I get to some kind of solution and move on, the note or thought gets burried in some directory the filename long forgotten.
 This repository is where I go over basics like:
