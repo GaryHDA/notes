@@ -1,5 +1,5 @@
-location,city,latitude,longitude,post,project,water
-cordova_creek2,Rancho Cordova,-121.309888,38.606566,95670,hdc,river
-antelope,Sacramento,-121.366282,38.713709,95864,hdc,river
-arcade_creek,Sacramento,-121.337193,38.656328,95864,hdc,river
-cordova_creek,Rancho Cordova,-121.317421,38.601989,95670,hdc,river
+location,latitude,longitude,city,post,water,project
+Cordova Creek II,-121.309888,38.606566,Rancho Cordova,95670,river,hdc
+Antelope,-121.366282,38.713709,Sacramento,95864,river,hdc
+Arcade Creek,-121.337193,38.656328,Sacramento,95864,river,hdc
+Cordova Creek,-121.317421,38.601989,Rancho Cordova,95670,river,hdc
