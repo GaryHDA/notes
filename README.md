@@ -1,6 +1,6 @@
 # Notes
 ### Where ideas get a chance to grow
-#### A project at hammerdirt, almost any project will get started here. The intiial logic or code blocks will be developed in a notebook or a script. If it goes any further great!
+#### A project at hammerdirt, almost any project will get started here. The initial logic or code blocks will be developed in a notebook or a script. If it goes any further great!
 
 #### Some folders are actual linked content:
 
