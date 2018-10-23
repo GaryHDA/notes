@@ -1,8 +1,17 @@
-# notes
-### A place to consolidate, go over basics and generally get better at what I do
-#### This will get updated on an adhoc basis
+# Notes
+### Where ideas get a chance to grow
+### Learning on the job
+#### A project at hammerdirt, almost any project will get started here. The intial logic or code blocks will be developed in a notebook or a script. If it goes any further great!
 
-Learning anything on the job is tough. So here is where I take step back get to the basics or the relevant source doucument and get a better understanding of the underlying principles.
+#### Some folders are actual linked content:
+
+1. notes-hammerdirt.ch
+   - explains the methods used to calculate probability
+   - explains how 'normal' is defined
+2. micro
+   - Cleaning of data from the microbio project
+   - Creation of cahrts for the microbio project
+   
 
 As modules or projects progress there is always that moment of "Is that the best way to do that" or "I wonder if this would work". Usually I get to some kind of solution and move on, the note or thought gets burried in some directory the filename long forgotten.
 This repository is where I go over basics like:
